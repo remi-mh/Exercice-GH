@@ -8,4 +8,4 @@ Fautes d'ortographe visibles au sein de ce fichier texte
 
 ## Améliorations attendues au vu des erreurs 
 Les erreurs contenues dans ce fichier texte sont là pour rendre possible une amélioration de celui-ci, et donc rendre possible le travail de prise en main de GitHub
-* Travail effectué le 12/10/2021 *
+*Travail effectué le 12/10/2021*
